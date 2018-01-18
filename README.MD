@@ -1,4 +1,3 @@
-
 Several prerequisites:
 
 - cassandra container should participate jmx_monitor network in order to be reachable for JMX Exporter;
